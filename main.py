@@ -523,7 +523,7 @@ def send_email():
         return
 
     from_email = "here"  # Update with your email
-    password = "here  # Update with your email password
+    password = "here"  # Update with your email password
 
     # Create a multipart message
     msg = MIMEMultipart()
