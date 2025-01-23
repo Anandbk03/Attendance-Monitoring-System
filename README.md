@@ -16,6 +16,16 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 6) You can send the attendance sheet through gmail.
 
+STEPS:
+1) Enter id and Name
+2) click on Take Images.Wait untill the window closes.
+3) Click on Save Profile and enter the password.(refer psd.txt).
+4) Now data is stored and click on Take attendance.
+5) press q to quit.
+6) Attendance will be stored in excel sheet and the info will be displayed on the gui interface too.
+7) In the code(main.py),fill your email and app password for enabling the functionality of sending the Attendance excel sheet via mail.
+8) You can delete attendance,registrations or images taken as shown in screenshot.
+
 # SCREENSHOTS
 MAIN SCREEN:
 
