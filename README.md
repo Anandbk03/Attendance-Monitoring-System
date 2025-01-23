@@ -18,8 +18,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Alt text]("Attendance-Monitoring-System
-/Screenshot(224).png")
+![Alt text](https://github.com/Anandbk03/Attendance-Monitoring-System/blob/main/Screenshot%20(224).png)
 
 TAKING ATTENDANCE:
 
