@@ -18,7 +18,8 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Alt text](Screenshot (224).png)
+![Alt text]("Attendance-Monitoring-System
+/Screenshot(224).png")
 
 TAKING ATTENDANCE:
 
