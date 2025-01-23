@@ -17,7 +17,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Sample Image]([https://example.com/sample-image.png](https://github.com/Anandbk03/Anandbk03/blob/cbc96fb86e458e52035daad9ad1cd3f3497586c1/Screenshot%20(224).png))
+![Sample Image]([[https://example.com/sample-image.png](https://github.com/Anandbk03/Anandbk03/blob/cbc96fb86e458e52035daad9ad1cd3f3497586c1/Screenshot%20(224).png)](https://github.com/Anandbk03/Anandbk03/blob/main/Screenshot%20(224).png?raw=true))
 
 TAKING ATTENDANCE:
 
