@@ -14,10 +14,11 @@ FEATURES:
 3) Creates/Updates CSV file for deatils of students on registration.
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+6) You can send the attendance sheet through gmail.
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Sample Image]([[https://example.com/sample-image.png](https://github.com/Anandbk03/Anandbk03/blob/cbc96fb86e458e52035daad9ad1cd3f3497586c1/Screenshot%20(224).png)](https://github.com/Anandbk03/Anandbk03/blob/main/Screenshot%20(224).png?raw=true))
+![Sample Image](Screenshot (224).png))
 
 TAKING ATTENDANCE:
 
