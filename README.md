@@ -18,15 +18,8 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
+
 ![Alt text](https://github.com/Anandbk03/Anandbk03/blob/main/Screenshot%20(224).png)
 
-TAKING ATTENDANCE:
-
-
-SHOWING ATTENDANCE TAKEN:
-
-HELP OPTION IN MENUBAR:
-
-
 CHANGE PASSWORD OPTION:
-
+![Alt text](https://github.com/Anandbk03/Anandbk03/blob/main/Screenshot%20(225).png)
