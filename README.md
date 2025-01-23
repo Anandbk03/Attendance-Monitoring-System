@@ -17,7 +17,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-Screenshot (224).png
+<img src="Screenshot (224).png">
 
 TAKING ATTENDANCE:
 
