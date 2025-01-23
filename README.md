@@ -18,7 +18,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Sample Image](Screenshot (224).png))
+![Sample Image](Anandbk03/Screenshot(224).png)
 
 TAKING ATTENDANCE:
 
